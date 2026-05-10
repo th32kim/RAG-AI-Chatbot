@@ -1,4 +1,4 @@
-Chatbot using **AWS RAG environment** for Amazon company and financial Q&A. 
+Production ready Chatbot using **AWS RAG environment** for Amazon company and financial Q&A. 
 
 Try out the live demo!
 
