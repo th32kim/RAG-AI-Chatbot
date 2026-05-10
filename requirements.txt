@@ -1,0 +1,6 @@
+gradio
+python-dotenv
+llama-index
+llama-index-llms-openai
+llama-index-retrievers-bedrock
+boto3==1.40.61

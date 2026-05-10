@@ -1,0 +1,1 @@
+import{r as e}from"./i18n-BlwlR3g4.js";import{R as t,y as a,T as p}from"./index-B5CnGmTK.js";import{G as i}from"./utils.svelte-Cn7aBojF.js";import"./clone-CePNcxlk.js";function $(n,o){t(o,!0);let s=e(o,["$$slots","$$events","$$legacy"]);const r=new i(s);a(()=>{r.props.value&&r.dispatch("change")}),p()}export{$ as default};
